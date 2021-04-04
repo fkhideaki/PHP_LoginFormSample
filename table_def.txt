@@ -1,0 +1,1 @@
+create table login_test.test (name varchar(64), mail varchar(64), pass varchar(64));
